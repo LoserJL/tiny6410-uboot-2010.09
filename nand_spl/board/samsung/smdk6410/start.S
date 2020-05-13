@@ -1,0 +1,1 @@
+/home/coolloser/tiny6410/bootloader/u-boot-2010.09-dt/arch/arm/cpu/arm1176/start.S

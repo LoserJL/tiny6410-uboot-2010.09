@@ -1,0 +1,1 @@
+/home/coolloser/tiny6410/bootloader/u-boot-2010.09-dt/board/samsung/smdk6410/lowlevel_init.S
